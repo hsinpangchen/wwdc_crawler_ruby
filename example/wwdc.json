@@ -1,0 +1,2082 @@
+[
+  {
+    "name": "Featured",
+    "url": "/videos/featured/",
+    "type": "topic",
+    "children": [
+      {
+        "name": " Special Events",
+        "url": "/videos/featured/special-events",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/101/",
+            "title": "WWDC 2018 Keynote",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "WWDC 2018 Keynote",
+            "type": "video",
+            "parent_topic": " Special Events"
+          },
+          {
+            "url": "/videos/play/wwdc2018/102/",
+            "title": "Platforms State of the Union",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "2018 Platforms State of the Union",
+            "type": "video",
+            "parent_topic": " Special Events"
+          },
+          {
+            "url": "/videos/play/wwdc2018/103/",
+            "title": "Apple Design Awards",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Join us for an unforgettable award ceremony celebrating developers and their outstanding work. The 2018 Apple Design Awards recognize state of the art iOS, macOS, watchOS, and tvOS apps that reflect excellence in design and innovation.",
+            "type": "video",
+            "parent_topic": " Special Events"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Design",
+    "url": "/videos/design/",
+    "type": "topic",
+    "children": [
+      {
+        "name": " Visual Design",
+        "url": "/videos/design/visual-design",
+        "type": "topic",
+        "videos": [
+
+        ]
+      },
+      {
+        "name": " Prototyping",
+        "url": "/videos/design/prototyping",
+        "type": "topic",
+        "videos": [
+
+        ]
+      },
+      {
+        "name": " Sound and Haptics",
+        "url": "/videos/design/sound-and-haptics",
+        "type": "topic",
+        "videos": [
+
+        ]
+      },
+      {
+        "name": " Interaction Design",
+        "url": "/videos/design/interaction-design",
+        "type": "topic",
+        "videos": [
+
+        ]
+      },
+      {
+        "name": " Typography",
+        "url": "/videos/design/typography",
+        "type": "topic",
+        "videos": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Frameworks",
+    "url": "/videos/frameworks/",
+    "type": "topic",
+    "children": [
+      {
+        "name": " Accessibility",
+        "url": "/videos/frameworks/accessibility",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/226/",
+            "title": "VoiceOver: App Testing Beyond The Visuals",
+            "platform": "iOS",
+            "content": "VoiceOver provides spoken descriptions and braille output of onscreen elements. Learn how to go beyond the visuals to identify VoiceOver and functional issues to help improve the experience for all users.",
+            "type": "video",
+            "parent_topic": " Accessibility"
+          },
+          {
+            "url": "/videos/play/wwdc2018/230/",
+            "title": "Deliver an Exceptional Accessibility Experience",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Go beyond the basics and create apps with an exceptional accessibility experience. Learn how to design elements that appear in your app for maximum clarity and accessibility. Discover how to enhance the way users interact with your app even when presenting custom views, or drawing complex UI.",
+            "type": "video",
+            "parent_topic": " Accessibility"
+          },
+          {
+            "url": "/videos/play/wwdc2018/236/",
+            "title": "AVSpeechSynthesizer: Making iOS Talk",
+            "platform": "iOS",
+            "content": "Speech can enhance the audio experience of your app, whether you are generating spoken feedback for accessibility, or providing critical information beyond simple alerts or notifications. AVSpeechSynthesizer produces synthesized speech from text and allows you to control and monitor the progress...",
+            "type": "video",
+            "parent_topic": " Accessibility"
+          },
+          {
+            "url": "/videos/play/wwdc2018/241/",
+            "title": "Accessible Drag and Drop",
+            "platform": "iOS",
+            "content": "Drag and Drop is a powerful API that allows apps to share and communicate data. No matter how you decide to implement Drag and Drop, there's a way to make it work for people with accessibility needs. Learn the details as we dive into accessible Drag and Drop for iOS.",
+            "type": "video",
+            "parent_topic": " Accessibility"
+          }
+        ]
+      },
+      {
+        "name": " Accessories",
+        "url": "/videos/frameworks/accessories",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/231/",
+            "title": "HomeKit Deep Dive",
+            "platform": "iOS, tvOS, watchOS",
+            "content": "Get a fresh look at the HomeKit APIs. Understand how Siri and the Apple Home App use Action Sets and Accessory Services & Characteristics to provide a great home automation experience.",
+            "type": "video",
+            "parent_topic": " Accessories"
+          }
+        ]
+      },
+      {
+        "name": " Apple Pay and Wallet",
+        "url": "/videos/frameworks/apple-pay-and-wallet",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/720/",
+            "title": "Wallet and Apple Pay: Creating Great Customer Experiences",
+            "platform": "iOS, macOS, watchOS",
+            "content": "Get the latest news and updates from the Wallet and Apple Pay team. Learn how iPhone and Apple Watch can power innovative commerce experiences. Hear about the latest design best practices for Apple Pay. And discover how to create your own contactless passes for rewards cards, gift cards, tickets...",
+            "type": "video",
+            "parent_topic": " Apple Pay and Wallet"
+          }
+        ]
+      },
+      {
+        "name": " Business and Enterprise",
+        "url": "/videos/frameworks/business-and-enterprise",
+        "type": "topic",
+        "videos": [
+
+        ]
+      },
+      {
+        "name": " CarPlay",
+        "url": "/videos/frameworks/carplay",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/213/",
+            "title": "CarPlay Audio and Navigation Apps",
+            "platform": "iOS",
+            "content": "Learn how to update your audio or navigation app to support CarPlay. Apps in CarPlay are optimized for use in the car, and automatically adapt to available vehicle screens and input controls. Audio apps can deliver music, news, podcasts, and more. With the new CarPlay framework, Navigation apps...",
+            "type": "video",
+            "parent_topic": " CarPlay"
+          }
+        ]
+      },
+      {
+        "name": " Cloud and Local Storage",
+        "url": "/videos/frameworks/cloud-and-local-storage",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/216/",
+            "title": "Managing Documents In Your iOS Apps",
+            "platform": "iOS",
+            "content": "Last year we introduced the Files App and an easy way to view, edit, and share documents within your application. Learn best practices for implementing this technology, how to effectively manage documents in your app, and how to avoid common document manager pitfalls. Hear about the difference...",
+            "type": "video",
+            "parent_topic": " Cloud and Local Storage"
+          }
+        ]
+      },
+      {
+        "name": " Education and Kids",
+        "url": "/videos/frameworks/education-and-kids",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/215/",
+            "title": "Introducing ClassKit",
+            "platform": "iOS",
+            "content": "The new ClassKit framework lets you organize educational content in your app so that teachers can discover and assign specific activities and view students' progress in the new Schoolwork app. Learn how to adopt ClassKit to your content structure, declare assignable content, and share student...",
+            "type": "video",
+            "parent_topic": " Education and Kids"
+          }
+        ]
+      },
+      {
+        "name": " Extensions",
+        "url": "/videos/frameworks/extensions",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/206/",
+            "title": "What's New in watchOS",
+            "platform": "watchOS",
+            "content": "watchOS 5 makes creating great experiences on Apple Watch easier than ever before. Learn about robust capabilities to create rich and interactive notifications, a new background mode and controls for audio playback, shortcuts that bring your apps to the Siri watch face, and more. See what's new...",
+            "type": "video",
+            "parent_topic": " Extensions"
+          },
+          {
+            "url": "/videos/play/wwdc2018/211/",
+            "title": "Introduction to Siri Shortcuts",
+            "platform": "iOS, watchOS",
+            "content": "Siri Shortcuts are a powerful new feature in iOS 12 that allow your app to expose its functionality to Siri. This enables Siri to suggest your shortcut at relevant times based on various context. Shortcuts can also be added to Siri to run with a voice phrase on iOS, HomePod and watchOS. Learn how...",
+            "type": "video",
+            "parent_topic": " Extensions"
+          },
+          {
+            "url": "/videos/play/wwdc2018/214/",
+            "title": "Building for Voice with Siri Shortcuts",
+            "platform": "iOS, watchOS",
+            "content": "Siri Shortcuts are a great way to help people execute actions or get information from your app, but shortcuts can be made even more powerful by adding them to Siri to be used with a simple phrase. Learn how you can now customize responses from Siri and add custom UI to make a great shortcuts...",
+            "type": "video",
+            "parent_topic": " Extensions"
+          },
+          {
+            "url": "/videos/play/wwdc2018/217/",
+            "title": "Siri Shortcuts on the Siri Watch Face",
+            "platform": "iOS, watchOS",
+            "content": "Learn how to use Siri Shortcuts to bring glanceable information and custom interactions to the Siri watch face. Walk through how to create a compelling user experience by providing relevant shortcuts and by donating interactions from your app. See how these experiences can be created from both...",
+            "type": "video",
+            "parent_topic": " Extensions"
+          },
+          {
+            "url": "/videos/play/wwdc2018/232/",
+            "title": "Getting Ready for Business Chat",
+            "platform": "iOS",
+            "content": "Business Chat is a powerful way for organizations to connect with customers directly from within Messages. Whether you are a Customer Service Platform provider, a brand looking to integrate chat for customer communication, or a brand app developer looking to extend your iOS app to enhance...",
+            "type": "video",
+            "parent_topic": " Extensions"
+          },
+          {
+            "url": "/videos/play/wwdc2018/505/",
+            "title": "Integrating with Photos on macOS",
+            "platform": "macOS",
+            "content": "Make your apps even better through improved integration with Photos on macOS. We'll dive deep into the Photos Project Extension API that was introduced in macOS High Sierra and update you on what's new. You'll also learn best practices for handling file promises and image URLs to better handle...",
+            "type": "video",
+            "parent_topic": " Extensions"
+          }
+        ]
+      },
+      {
+        "name": " Foundation",
+        "url": "/videos/frameworks/foundation",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/209/",
+            "title": "What's New in Cocoa for macOS",
+            "platform": "macOS",
+            "content": "Gain insights into the latest in Cocoa frameworks for macOS. Hear about Dark Mode, control tinting, contextual workflows for Touch Bar and Finder, and other improvements in AppKit, Foundation, and related areas. Get an overview and guide to the sessions that we have this year covering...",
+            "type": "video",
+            "parent_topic": " Foundation"
+          },
+          {
+            "url": "/videos/play/wwdc2018/222/",
+            "title": "Data You Can Trust",
+            "platform": "iOS, macOS",
+            "content": "A lot can go wrong when loading data into your app. Whether you work directly with JSON and property lists, or with higher-level APIs such as NSCoding and Codable, learn how to defend your customers and secure your code against invalid or malicious data. Avoid fatal assumptions by validating...",
+            "type": "video",
+            "parent_topic": " Foundation"
+          },
+          {
+            "url": "/videos/play/wwdc2018/224/",
+            "title": "Core Data Best Practices",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "As your app gains more customers and becomes more feature-rich, you may find yourself with new problems to solve. Core Data is a powerful tool that has changed a lot over the years. Learn about the new best practices in Core Data, such as how to use concurrency and persistent history, and...",
+            "type": "video",
+            "parent_topic": " Foundation"
+          },
+          {
+            "url": "/videos/play/wwdc2018/229/",
+            "title": "Using Collections Effectively",
+            "platform": "macOS",
+            "content": "Every app uses collections! Go beyond the basics with specific tips on how best to use indices, slices, bridging, laziness, and reference types. Gain better understanding of when to use each collection for best performance.",
+            "type": "video",
+            "parent_topic": " Foundation"
+          },
+          {
+            "url": "/videos/play/wwdc2018/237/",
+            "title": "Quick Look Previews from the Ground Up",
+            "platform": "iOS, macOS",
+            "content": "Quicklook Previews are an easy way preview documents in your app. Hear about the basics as well as some advanced implementations. Learn to present a variety of types of documents from within your app without reinventing the wheel, and make sure your custom file format works great with the...",
+            "type": "video",
+            "parent_topic": " Foundation"
+          },
+          {
+            "url": "/videos/play/wwdc2018/701/",
+            "title": "Using Accelerate and simd",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Learn how to use sophisticated Signal and Image Processing techniques to bring higher performance to your apps while lowering battery consumption.  See compelling use cases for the Accelerate framework with interactive demos. Explore using simd—a valuable addition that effortlessly brings...",
+            "type": "video",
+            "parent_topic": " Foundation"
+          }
+        ]
+      },
+      {
+        "name": " Health and Fitness",
+        "url": "/videos/frameworks/health-and-fitness",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/205/",
+            "title": "Advances in Research and Care Frameworks",
+            "platform": "iOS",
+            "content": "HealthKit, CoreMotion, and other iOS frameworks combined with the ResearchKit and CareKit open-source projects, provide a deep platform for the creation of game-changing apps for care teams, researchers, and the medical community. Discover new active tasks that leverage calibrated device data and...",
+            "type": "video",
+            "parent_topic": " Health and Fitness"
+          },
+          {
+            "url": "/videos/play/wwdc2018/706/",
+            "title": "Accessing Health Records with HealthKit",
+            "platform": "iOS, watchOS",
+            "content": "HealthKit provides a consolidated repository for a variety of data including health records containing information such as lab results, immunizations, and medications downloaded directly from institutions. Discover new health records classes and types created to provide easy access to high-level...",
+            "type": "video",
+            "parent_topic": " Health and Fitness"
+          },
+          {
+            "url": "/videos/play/wwdc2018/707/",
+            "title": "New Ways to Work with Workouts",
+            "platform": "iOS, watchOS",
+            "content": "Tracking workouts with Apple Watch is popular with fitness professionals and novices alike.  See how the new workout API streamlines the entire lifecycle of a workout, complete with ability to restart a session after a crash to prevent you from losing data. Learn how the new workout classes,...",
+            "type": "video",
+            "parent_topic": " Health and Fitness"
+          }
+        ]
+      },
+      {
+        "name": " HomeKit",
+        "url": "/videos/frameworks/homekit",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/231/",
+            "title": "HomeKit Deep Dive",
+            "platform": "iOS, tvOS, watchOS",
+            "content": "Get a fresh look at the HomeKit APIs. Understand how Siri and the Apple Home App use Action Sets and Accessory Services & Characteristics to provide a great home automation experience.",
+            "type": "video",
+            "parent_topic": " HomeKit"
+          }
+        ]
+      },
+      {
+        "name": " Internationalization and Localization",
+        "url": "/videos/frameworks/internationalization-and-localization",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/201/",
+            "title": "Creating Apps for a Global Audience",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Common assumptions can break when your app is used by a global audience. Learn about the many aspects of creating apps for different regions and languages. Understand how to use fonts and typography, layout techniques, and support text input so your app shines in all languages.",
+            "type": "video",
+            "parent_topic": " Internationalization and Localization"
+          },
+          {
+            "url": "/videos/play/wwdc2018/404/",
+            "title": "New Localization Workflows in Xcode 10",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "The localization process in Xcode 10 has been updated to aid you through the lifecycle of exporting, importing, and testing localized content in your apps. See new functionality added in Xcode 10 and learn how the new localization catalog helps you build world-class, localized apps.",
+            "type": "video",
+            "parent_topic": " Internationalization and Localization"
+          }
+        ]
+      },
+      {
+        "name": " Machine Learning and Vision",
+        "url": "/videos/frameworks/machine-learning-and-vision",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/609/",
+            "title": "Metal for Accelerating Machine Learning",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal Performance Shaders (MPS) includes a highly tuned library of machine learning primitives leveraging the tremendous power of the GPU. With iOS 12 and macOS Mojave, MPS adds capabilities to accelerate the computationally intensive task of training a neural network. Learn performance...",
+            "type": "video",
+            "parent_topic": " Machine Learning and Vision"
+          },
+          {
+            "url": "/videos/play/wwdc2018/703/",
+            "title": "Introducing Create ML",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Create ML is a new framework designed to help you easily build machine learning models using Swift and Xcode. Designed for Simplicity and Performance. Learn how you can build customized models from data that will enable new and powerful features in your apps using Create ML.",
+            "type": "video",
+            "parent_topic": " Machine Learning and Vision"
+          },
+          {
+            "url": "/videos/play/wwdc2018/708/",
+            "title": "What’s New in Core ML, Part 1",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Introduced just one year ago, Core ML has already revolutionized the way apps can benefit from machine learning, by enabling fast and private on device machine learning features for your app. Find out how new Core ML features let you reduce the size of models, make them more flexible, and...",
+            "type": "video",
+            "parent_topic": " Machine Learning and Vision"
+          },
+          {
+            "url": "/videos/play/wwdc2018/709/",
+            "title": "What’s New in Core ML, Part 2",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "The Core ML tools ecosystem gives you many options for building and optimizing models to meet your app requirements. Learn how to add flexibility to existing models, quantize them, and take advantage of Core ML's support for customization.",
+            "type": "video",
+            "parent_topic": " Machine Learning and Vision"
+          },
+          {
+            "url": "/videos/play/wwdc2018/712/",
+            "title": "A Guide to Turi Create",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Turi Create is an open source toolset for creating Core ML models, for tasks such as image classification, object detection, style transfers, recommendations, and more. Learn how you can use Turi Create to build models for your apps.",
+            "type": "video",
+            "parent_topic": " Machine Learning and Vision"
+          },
+          {
+            "url": "/videos/play/wwdc2018/713/",
+            "title": "Introducing Natural Language Framework",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Natural Language is a redesigned framework designed to provide high-performance, on-device APIs for fundamental NLP tasks across all Apple platforms. Through the deep integration of the framework with Core ML and Create ML, you now have the ability to train custom NLP models to perform many...",
+            "type": "video",
+            "parent_topic": " Machine Learning and Vision"
+          },
+          {
+            "url": "/videos/play/wwdc2018/716/",
+            "title": "Object Tracking in Vision",
+            "platform": "iOS, macOS",
+            "content": "Vision is a high-level framework that provides an easy to use API for handling many computer vision tasks. We'll dive deep into a particularly powerful feature of Vision—tracking objects in video streams. Learn best practices for using Vision in your app. Gain a greater understanding of how...",
+            "type": "video",
+            "parent_topic": " Machine Learning and Vision"
+          },
+          {
+            "url": "/videos/play/wwdc2018/717/",
+            "title": "Vision with Core ML",
+            "platform": "iOS, macOS",
+            "content": "Using Core ML models in Vision makes the creation of powerful Computer Vision applications easy. Learn how easy it is to use custom trained classifiers and object recognition models in a live camera capture. In addition, you'll learn about the latest additions to the Vision Framework along with a...",
+            "type": "video",
+            "parent_topic": " Machine Learning and Vision"
+          }
+        ]
+      },
+      {
+        "name": " Maps and Location",
+        "url": "/videos/frameworks/maps-and-location",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/212/",
+            "title": "Introducing MapKit JS",
+            "platform": "iOS, macOS",
+            "content": "MapKit JS brings Apple Maps to your website. See how MapKit JS provides map rendering that is optimized for various browsers and devices, and supports native gestures such as pinch-to-zoom, two-finger rotate, and more. Learn how to add annotations and overlays, and how to use JavaScript...",
+            "type": "video",
+            "parent_topic": " Maps and Location"
+          },
+          {
+            "url": "/videos/play/wwdc2018/508/",
+            "title": "Getting and Using a Mapkit JS Key",
+            "platform": "iOS, macOS",
+            "content": "MapKit JS uses the JWT standard for ensuring a secure connection between your site and the MapKit JS services.  Learn how to create, protect, and use site-specific keys to ensure only your servers are accessing APIs linked to your domain.",
+            "type": "video",
+            "parent_topic": " Maps and Location"
+          }
+        ]
+      },
+      {
+        "name": " Networking",
+        "url": "/videos/frameworks/networking",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/601/",
+            "title": "Live Screen Broadcast with ReplayKit",
+            "platform": "iOS, tvOS",
+            "content": "ReplayKit 2 provides built-in services for broadcasting your screen from iOS and tvOS to viewers online. See how broadcasts can be started right within Control Center or from standard UI included in your own apps and games. Hear about developing broadcast extensions for ReplayKit 2 and get best...",
+            "type": "video",
+            "parent_topic": " Networking"
+          },
+          {
+            "url": "/videos/play/wwdc2018/714/",
+            "title": "Optimizing Your App for Today’s Internet",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Learn what Apple has been doing to help your app get the most out of the network with the least effort. Let Apple's networking APIs do the heavy lifting for you. Learn best practices for getting top networking performance from your app using the URLSession APIs.",
+            "type": "video",
+            "parent_topic": " Networking"
+          },
+          {
+            "url": "/videos/play/wwdc2018/715/",
+            "title": "Introducing Network.framework: A modern alternative to Sockets",
+            "platform": "iOS, macOS, tvOS",
+            "content": "The new Network.framework API gives you direct access to the same high-performance user-space networking stack used by URLSession. If you're considering using Berkeley Sockets in your app or library, learn what better options are available to you.",
+            "type": "video",
+            "parent_topic": " Networking"
+          }
+        ]
+      },
+      {
+        "name": " Privacy and Security",
+        "url": "/videos/frameworks/privacy-and-security",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/204/",
+            "title": "Automatic Strong Passwords and Security Code AutoFill",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Passwords and security codes are a modern necessity required for security and privacy. iOS 12 eases the tedious aspects of account setup and sign-in by automatically suggesting and using strong, unique passwords — even from within apps —  and by bringing one-time codes to the QuickType bar so...",
+            "type": "video",
+            "parent_topic": " Privacy and Security"
+          },
+          {
+            "url": "/videos/play/wwdc2018/207/",
+            "title": "Strategies for Securing Web Content",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Whether you use web content in your app via an embedded WebKit view, deliver pure web apps, or create web content to be embedded by others, it's important to ensure that you are using the most current web security standards. Learn techniques like such as special cookie attributes and HTTP...",
+            "type": "video",
+            "parent_topic": " Privacy and Security"
+          },
+          {
+            "url": "/videos/play/wwdc2018/222/",
+            "title": "Data You Can Trust",
+            "platform": "iOS, macOS",
+            "content": "A lot can go wrong when loading data into your app. Whether you work directly with JSON and property lists, or with higher-level APIs such as NSCoding and Codable, learn how to defend your customers and secure your code against invalid or malicious data. Avoid fatal assumptions by validating...",
+            "type": "video",
+            "parent_topic": " Privacy and Security"
+          },
+          {
+            "url": "/videos/play/wwdc2018/507/",
+            "title": "AVContentKeySession Best Practices",
+            "platform": "iOS, tvOS",
+            "content": "AVContentKeySession allows for the management of FairPlay content decryption keys for HTTP Live Streaming. It offers a simplified key loading process that provides applications with control over the lifecycle of content keys, and features such as dual-expiry keys for offline movie rentals. Learn...",
+            "type": "video",
+            "parent_topic": " Privacy and Security"
+          },
+          {
+            "url": "/videos/play/wwdc2018/702/",
+            "title": "Your Apps and the Future of macOS Security",
+            "platform": "macOS",
+            "content": "Apple is on a mission to advance the state of Mac security, and we want your apps to be there with us. Learn about new protections for user data, new capabilities with Developer ID, and how you can best secure your apps.",
+            "type": "video",
+            "parent_topic": " Privacy and Security"
+          },
+          {
+            "url": "/videos/play/wwdc2018/718/",
+            "title": "Better Apps through Better Privacy",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "At Apple, we believe in building products with both great features and great privacy. Learn how to apply privacy engineering techniques to your apps so you can build trust with users to unlock better experiences and engagement.  And find out how new privacy features can benefit you and your users.",
+            "type": "video",
+            "parent_topic": " Privacy and Security"
+          },
+          {
+            "url": "/videos/play/wwdc2018/721/",
+            "title": "Implementing AutoFill Credential Provider Extensions",
+            "platform": "iOS, macOS",
+            "content": "Password AutoFill delivers the ability to fill passwords seamlessly within iOS apps and Safari. Join us to learn how app developers who provide credential management can surface their credentials during sign-in within apps and on the web.",
+            "type": "video",
+            "parent_topic": " Privacy and Security"
+          }
+        ]
+      },
+      {
+        "name": " Safari and Web",
+        "url": "/videos/frameworks/safari-and-web",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/207/",
+            "title": "Strategies for Securing Web Content",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Whether you use web content in your app via an embedded WebKit view, deliver pure web apps, or create web content to be embedded by others, it's important to ensure that you are using the most current web security standards. Learn techniques like such as special cookie attributes and HTTP...",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          },
+          {
+            "url": "/videos/play/wwdc2018/208/",
+            "title": "What's New in tvOS 12",
+            "platform": "tvOS",
+            "content": "Apps on tvOS entertain, inform, and inspire with their content and interactive experiences. tvOS 12 brings new technologies that help make these experiences even more enjoyable and engaging. Get an introduction to focus engine support for non-UIKit apps, new UI elements, and Password AutoFill...",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          },
+          {
+            "url": "/videos/play/wwdc2018/212/",
+            "title": "Introducing MapKit JS",
+            "platform": "iOS, macOS",
+            "content": "MapKit JS brings Apple Maps to your website. See how MapKit JS provides map rendering that is optimized for various browsers and devices, and supports native gestures such as pinch-to-zoom, two-finger rotate, and more. Learn how to add annotations and overlays, and how to use JavaScript...",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          },
+          {
+            "url": "/videos/play/wwdc2018/234/",
+            "title": "What’s New in Safari and WebKit",
+            "platform": "iOS, macOS",
+            "content": "Safari and WebKit are continually evolving with new features, APIs, and cutting edge web standards. Learn about this year's biggest feature highlights, designed to help you create richer experiences with better performance and security — whether you are developing content for a browser or...",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          },
+          {
+            "url": "/videos/play/wwdc2018/238/",
+            "title": "What's New in TVMLKit",
+            "platform": "tvOS",
+            "content": "With TVMLKit you can quickly and easily develop tvOS apps that deliver intuitive and engaging media experiences. Learn about enhancements to data binding that allow you to separate your application logic and user interface, and new features and functions to customize the media playback experience.",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          },
+          {
+            "url": "/videos/play/wwdc2018/239/",
+            "title": "Designing Web Content for watchOS",
+            "platform": "watchOS",
+            "content": "watchOS 5 brings web content to Apple Watch by rendering rich HTML in Messages and Mail. Gain insights into how watchOS maintains compatibility with existing web content, and find out what you can do to optimize your web content for Apple Watch.",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          },
+          {
+            "url": "/videos/play/wwdc2018/506/",
+            "title": "MusicKit on the Web",
+            "platform": "iOS, macOS",
+            "content": "MusicKit has enabled the creation of new, compelling, and engaging Apple Music powered app experiences. With the introduction of MusicKit on the web, as a developer, you can now bring Apple Music powered experiences to the web. Learn how to use declarative markup or javascript to enable Apple...",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          },
+          {
+            "url": "/videos/play/wwdc2018/508/",
+            "title": "Getting and Using a Mapkit JS Key",
+            "platform": "iOS, macOS",
+            "content": "MapKit JS uses the JWT standard for ensuring a secure connection between your site and the MapKit JS services.  Learn how to create, protect, and use site-specific keys to ensure only your servers are accessing APIs linked to your domain.",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          },
+          {
+            "url": "/videos/play/wwdc2018/603/",
+            "title": "Integrating Apps and Content with AR Quick Look",
+            "platform": "iOS",
+            "content": "With iOS 12, ARKit includes a built-in viewer for displaying and sharing high-quality 3D content using Pixar's usdz file format. Get introduced to the capabilities of AR Quick Look and see how to easily integrate AR into your app. Learn best practices for preparing 3D models for AR, and see how...",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          },
+          {
+            "url": "/videos/play/wwdc2018/721/",
+            "title": "Implementing AutoFill Credential Provider Extensions",
+            "platform": "iOS, macOS",
+            "content": "Password AutoFill delivers the ability to fill passwords seamlessly within iOS apps and Safari. Join us to learn how app developers who provide credential management can surface their credentials during sign-in within apps and on the web.",
+            "type": "video",
+            "parent_topic": " Safari and Web"
+          }
+        ]
+      },
+      {
+        "name": " Siri and Voice",
+        "url": "/videos/frameworks/siri-and-voice",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/202/",
+            "title": "What's New in Cocoa Touch",
+            "platform": "iOS",
+            "content": "iOS 12 enhances the Cocoa Touch frameworks to improve app performance and deliver exciting new features. Learn about performance best practices, security improvements, tools for supporting multiple screen sizes and shapes, new APIs for iMessage apps, Siri Shortcuts, and Swift refinements. Find...",
+            "type": "video",
+            "parent_topic": " Siri and Voice"
+          },
+          {
+            "url": "/videos/play/wwdc2018/211/",
+            "title": "Introduction to Siri Shortcuts",
+            "platform": "iOS, watchOS",
+            "content": "Siri Shortcuts are a powerful new feature in iOS 12 that allow your app to expose its functionality to Siri. This enables Siri to suggest your shortcut at relevant times based on various context. Shortcuts can also be added to Siri to run with a voice phrase on iOS, HomePod and watchOS. Learn how...",
+            "type": "video",
+            "parent_topic": " Siri and Voice"
+          },
+          {
+            "url": "/videos/play/wwdc2018/214/",
+            "title": "Building for Voice with Siri Shortcuts",
+            "platform": "iOS, watchOS",
+            "content": "Siri Shortcuts are a great way to help people execute actions or get information from your app, but shortcuts can be made even more powerful by adding them to Siri to be used with a simple phrase. Learn how you can now customize responses from Siri and add custom UI to make a great shortcuts...",
+            "type": "video",
+            "parent_topic": " Siri and Voice"
+          },
+          {
+            "url": "/videos/play/wwdc2018/217/",
+            "title": "Siri Shortcuts on the Siri Watch Face",
+            "platform": "iOS, watchOS",
+            "content": "Learn how to use Siri Shortcuts to bring glanceable information and custom interactions to the Siri watch face. Walk through how to create a compelling user experience by providing relevant shortcuts and by donating interactions from your app. See how these experiences can be created from both...",
+            "type": "video",
+            "parent_topic": " Siri and Voice"
+          },
+          {
+            "url": "/videos/play/wwdc2018/236/",
+            "title": "AVSpeechSynthesizer: Making iOS Talk",
+            "platform": "iOS",
+            "content": "Speech can enhance the audio experience of your app, whether you are generating spoken feedback for accessibility, or providing critical information beyond simple alerts or notifications. AVSpeechSynthesizer produces synthesized speech from text and allows you to control and monitor the progress...",
+            "type": "video",
+            "parent_topic": " Siri and Voice"
+          }
+        ]
+      },
+      {
+        "name": " UI Frameworks",
+        "url": "/videos/frameworks/ui-frameworks",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/201/",
+            "title": "Creating Apps for a Global Audience",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Common assumptions can break when your app is used by a global audience. Learn about the many aspects of creating apps for different regions and languages. Understand how to use fonts and typography, layout techniques, and support text input so your app shines in all languages.",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/202/",
+            "title": "What's New in Cocoa Touch",
+            "platform": "iOS",
+            "content": "iOS 12 enhances the Cocoa Touch frameworks to improve app performance and deliver exciting new features. Learn about performance best practices, security improvements, tools for supporting multiple screen sizes and shapes, new APIs for iMessage apps, Siri Shortcuts, and Swift refinements. Find...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/203/",
+            "title": "I Have This Idea For An App...",
+            "platform": "iOS",
+            "content": "Do you have an idea for an app that you think would be useful to others, but you don't know how to make it a reality? You're not alone! Lots of people are interested in app development, but they aren't sure how to turn their idea to code and then into a finished app. From first steps to Xcode,...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/206/",
+            "title": "What's New in watchOS",
+            "platform": "watchOS",
+            "content": "watchOS 5 makes creating great experiences on Apple Watch easier than ever before. Learn about robust capabilities to create rich and interactive notifications, a new background mode and controls for audio playback, shortcuts that bring your apps to the Siri watch face, and more. See what's new...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/208/",
+            "title": "What's New in tvOS 12",
+            "platform": "tvOS",
+            "content": "Apps on tvOS entertain, inform, and inspire with their content and interactive experiences. tvOS 12 brings new technologies that help make these experiences even more enjoyable and engaging. Get an introduction to focus engine support for non-UIKit apps, new UI elements, and Password AutoFill...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/209/",
+            "title": "What's New in Cocoa for macOS",
+            "platform": "macOS",
+            "content": "Gain insights into the latest in Cocoa frameworks for macOS. Hear about Dark Mode, control tinting, contextual workflows for Touch Bar and Finder, and other improvements in AppKit, Foundation, and related areas. Get an overview and guide to the sessions that we have this year covering...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/210/",
+            "title": "Introducing Dark Mode",
+            "platform": "macOS",
+            "content": "Hear from the Apple design team about the principles and concepts that anchor Dark Mode. Learn the basics of enhancing your app with this new appearance, and add an experience that people are sure to love.",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/211/",
+            "title": "Introduction to Siri Shortcuts",
+            "platform": "iOS, watchOS",
+            "content": "Siri Shortcuts are a powerful new feature in iOS 12 that allow your app to expose its functionality to Siri. This enables Siri to suggest your shortcut at relevant times based on various context. Shortcuts can also be added to Siri to run with a voice phrase on iOS, HomePod and watchOS. Learn how...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/213/",
+            "title": "CarPlay Audio and Navigation Apps",
+            "platform": "iOS",
+            "content": "Learn how to update your audio or navigation app to support CarPlay. Apps in CarPlay are optimized for use in the car, and automatically adapt to available vehicle screens and input controls. Audio apps can deliver music, news, podcasts, and more. With the new CarPlay framework, Navigation apps...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/214/",
+            "title": "Building for Voice with Siri Shortcuts",
+            "platform": "iOS, watchOS",
+            "content": "Siri Shortcuts are a great way to help people execute actions or get information from your app, but shortcuts can be made even more powerful by adding them to Siri to be used with a simple phrase. Learn how you can now customize responses from Siri and add custom UI to make a great shortcuts...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/216/",
+            "title": "Managing Documents In Your iOS Apps",
+            "platform": "iOS",
+            "content": "Last year we introduced the Files App and an easy way to view, edit, and share documents within your application. Learn best practices for implementing this technology, how to effectively manage documents in your app, and how to avoid common document manager pitfalls. Hear about the difference...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/217/",
+            "title": "Siri Shortcuts on the Siri Watch Face",
+            "platform": "iOS, watchOS",
+            "content": "Learn how to use Siri Shortcuts to bring glanceable information and custom interactions to the Siri watch face. Walk through how to create a compelling user experience by providing relevant shortcuts and by donating interactions from your app. See how these experiences can be created from both...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/218/",
+            "title": "Advanced Dark Mode",
+            "platform": "macOS",
+            "content": "Step deeper into Dark Mode adoption in your macOS application. Learn about the powerful Cocoa technologies at the core of Dark Mode, and take a detailed look at the APIs and best practices for adapting to this beautiful new look.",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/219/",
+            "title": "Image and Graphics Best Practices",
+            "platform": "iOS",
+            "content": "Whether it's for UI elements or a fundamental part of your application, at some point, you have to handle images. This session is packed with engaging insight into how images are handled in iOS including discussion of UIImage, UIImageView, custom drawing in UIKit, plus advanced CPU and GPU...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/220/",
+            "title": "High Performance Auto Layout",
+            "platform": "iOS",
+            "content": "Get a glimpse inside to find out what happens when you add a constraint! Dive into the internals of Auto Layout to develop intuition for how your code affects what happens under the hood. Learn how to measure and refine your approach to Auto Layout and see how its improved performance in iOS 12...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/221/",
+            "title": "TextKit Best Practices",
+            "platform": "iOS, macOS",
+            "content": "Leverage the abilities of TextKit to provide the best experience possible displaying and editing text. Get the best performance out of your app by using TextKit effectively. Learn the concepts to do more complex handling, layout and presentation.",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/225/",
+            "title": "A Tour of UICollectionView",
+            "platform": "iOS",
+            "content": "UICollectionView is a flexible, powerful tool to help you achieve great user experiences in your applications. Hear how you can leverage these rich APIs to rapidly move from initial design ideas to polished shipping applications. Topics range from getting started to advanced update animations and...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/227/",
+            "title": "Optimizing App Assets",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Learn how to use assets to bring visually compelling and data efficient artwork to your apps, leveraging new features in iOS 12. Gain insight into organizing, optimizing, and authoring artwork assets by using asset catalogs to their fullest. Learn techniques to better streamline workflows between...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/233/",
+            "title": "Adding Delight to your iOS App",
+            "platform": "iOS",
+            "content": "iOS contains powerful technologies you can use to make your app truly delightful. Learn how to take your app to the next level with easy-to-implement features such as Handoff and External Display support. Preserve that feeling of magic in your app with pro-tips that combine animations, gestures...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/235/",
+            "title": "UIKit: Apps for Every Size and Shape",
+            "platform": "iOS",
+            "content": "Ground-up coverage of how to make an app that can fit on devices of every size and shape. Make your app fit beautifully on Apple's full range of devices with the minimum amount of effort, future-proofing your user experience along the way.",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/237/",
+            "title": "Quick Look Previews from the Ground Up",
+            "platform": "iOS, macOS",
+            "content": "Quicklook Previews are an easy way preview documents in your app. Hear about the basics as well as some advanced implementations. Learn to present a variety of types of documents from within your app without reinventing the wheel, and make sure your custom file format works great with the...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/238/",
+            "title": "What's New in TVMLKit",
+            "platform": "tvOS",
+            "content": "With TVMLKit you can quickly and easily develop tvOS apps that deliver intuitive and engaging media experiences. Learn about enhancements to data binding that allow you to separate your application logic and user interface, and new features and functions to customize the media playback experience.",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/504/",
+            "title": "Creating Audio Apps for watchOS",
+            "platform": "watchOS",
+            "content": "Apps in watchOS 5 have control over audio playback like never before.  With a full-fledged background mode for local audio playback using AVFoundation, people can listen to content on the go right from Apple Watch. Learn how to use the new volume control and how to respond to MediaRemote...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/710/",
+            "title": "What’s New in User Notifications",
+            "platform": "iOS, watchOS",
+            "content": "Local and push notifications enable your app to keep users informed with timely and relevant content, by displaying messages and accepting users' actions, or playing distinctive sounds, or updating the badge on your app icon. Improvements to rich notifications help you create more engaging...",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/711/",
+            "title": "Using Grouped Notifications",
+            "platform": "iOS",
+            "content": "Grouping the notifications your app sends helps people get more information at a glance and manage multiple notifications at once. Learn how to implement Grouped Notifications in your app.",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          },
+          {
+            "url": "/videos/play/wwdc2018/721/",
+            "title": "Implementing AutoFill Credential Provider Extensions",
+            "platform": "iOS, macOS",
+            "content": "Password AutoFill delivers the ability to fill passwords seamlessly within iOS apps and Safari. Join us to learn how app developers who provide credential management can surface their credentials during sign-in within apps and on the web.",
+            "type": "video",
+            "parent_topic": " UI Frameworks"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Graphics and Games",
+    "url": "/videos/graphics-and-games/",
+    "type": "topic",
+    "children": [
+      {
+        "name": " AR / VR",
+        "url": "/videos/graphics-and-games/ar-vr",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/602/",
+            "title": "What’s New in ARKit 2",
+            "platform": "iOS",
+            "content": "ARKit 2 makes it easy to develop vivid augmented reality experiences and enable apps to interact with the real world in entirely new ways. Discover how multiple iOS devices can simultaneously view an AR scene or play multiplayer AR games. Learn about new capabilities for tracking 2D images, and...",
+            "type": "video",
+            "parent_topic": " AR / VR"
+          },
+          {
+            "url": "/videos/play/wwdc2018/603/",
+            "title": "Integrating Apps and Content with AR Quick Look",
+            "platform": "iOS",
+            "content": "With iOS 12, ARKit includes a built-in viewer for displaying and sharing high-quality 3D content using Pixar's usdz file format. Get introduced to the capabilities of AR Quick Look and see how to easily integrate AR into your app. Learn best practices for preparing 3D models for AR, and see how...",
+            "type": "video",
+            "parent_topic": " AR / VR"
+          },
+          {
+            "url": "/videos/play/wwdc2018/605/",
+            "title": "Inside SwiftShot: Creating an AR Game",
+            "platform": "iOS",
+            "content": "Developed by Apple, SwiftShot is an energetic and immersive multiplayer AR game built with key iOS technologies. Glimpse behind the curtain and see how SwiftShot was designed and developed using ARKit, SceneKit, and Swift. Understand the intricacies of designing great gameplay for AR, and learn...",
+            "type": "video",
+            "parent_topic": " AR / VR"
+          },
+          {
+            "url": "/videos/play/wwdc2018/606/",
+            "title": "Metal for Ray Tracing Acceleration",
+            "platform": "iOS, macOS",
+            "content": "Metal Performance Shaders (MPS) harnesses the massive parallelism of the GPU to dramatically accelerate calculations at the heart of modern ray tracing and ray casting techniques. See how ray tracing can provide greater realism in 3D scenes through improved shading, soft shadows, and global...",
+            "type": "video",
+            "parent_topic": " AR / VR"
+          },
+          {
+            "url": "/videos/play/wwdc2018/610/",
+            "title": "Understanding ARKit Tracking and Detection",
+            "platform": "iOS",
+            "content": "With ARKit your app can see the world and place virtual objects on horizontal and vertical surfaces and recognize images and objects. Go beyond the API to gain insights into the innovative methods and techniques underlying these capabilities. See how ARKit combines device motion with the camera...",
+            "type": "video",
+            "parent_topic": " AR / VR"
+          },
+          {
+            "url": "/videos/play/wwdc2018/611/",
+            "title": "Metal for VR",
+            "platform": "macOS",
+            "content": "On macOS, Metal 2 adds specialized support for virtual reality (VR) rendering and external GPUs. Learn about new features and optimizations to take advantage of these technologies within your Metal 2-based apps and games. Understand best practices for scheduling workloads across multiple GPUs and...",
+            "type": "video",
+            "parent_topic": " AR / VR"
+          },
+          {
+            "url": "/videos/play/wwdc2018/805/",
+            "title": "Creating Great AR Experiences",
+            "platform": "iOS",
+            "content": "Engaging AR experiences are easy to start and navigate, persuasively realistic, and highly immersive. Learn best practices for successfully bringing people into an AR experience, teaching them about how to interact and engage with virtual content, and making your AR content look beautiful and...",
+            "type": "video",
+            "parent_topic": " AR / VR"
+          }
+        ]
+      },
+      {
+        "name": " 2D Graphics",
+        "url": "/videos/graphics-and-games/2d-graphics",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/604/",
+            "title": "Metal for OpenGL Developers",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal is the foundation for accelerated graphics and compute on Apple platforms, enabling your apps and games to tap into the incredible power of the GPU. Get introduced to essential Metal capabilities and understand the recommended approach for transitioning OpenGL-based apps onto the Metal API.",
+            "type": "video",
+            "parent_topic": " 2D Graphics"
+          }
+        ]
+      },
+      {
+        "name": " 3D Graphics",
+        "url": "/videos/graphics-and-games/3d-graphics",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/602/",
+            "title": "What’s New in ARKit 2",
+            "platform": "iOS",
+            "content": "ARKit 2 makes it easy to develop vivid augmented reality experiences and enable apps to interact with the real world in entirely new ways. Discover how multiple iOS devices can simultaneously view an AR scene or play multiplayer AR games. Learn about new capabilities for tracking 2D images, and...",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          },
+          {
+            "url": "/videos/play/wwdc2018/603/",
+            "title": "Integrating Apps and Content with AR Quick Look",
+            "platform": "iOS",
+            "content": "With iOS 12, ARKit includes a built-in viewer for displaying and sharing high-quality 3D content using Pixar's usdz file format. Get introduced to the capabilities of AR Quick Look and see how to easily integrate AR into your app. Learn best practices for preparing 3D models for AR, and see how...",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          },
+          {
+            "url": "/videos/play/wwdc2018/604/",
+            "title": "Metal for OpenGL Developers",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal is the foundation for accelerated graphics and compute on Apple platforms, enabling your apps and games to tap into the incredible power of the GPU. Get introduced to essential Metal capabilities and understand the recommended approach for transitioning OpenGL-based apps onto the Metal API.",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          },
+          {
+            "url": "/videos/play/wwdc2018/605/",
+            "title": "Inside SwiftShot: Creating an AR Game",
+            "platform": "iOS",
+            "content": "Developed by Apple, SwiftShot is an energetic and immersive multiplayer AR game built with key iOS technologies. Glimpse behind the curtain and see how SwiftShot was designed and developed using ARKit, SceneKit, and Swift. Understand the intricacies of designing great gameplay for AR, and learn...",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          },
+          {
+            "url": "/videos/play/wwdc2018/606/",
+            "title": "Metal for Ray Tracing Acceleration",
+            "platform": "iOS, macOS",
+            "content": "Metal Performance Shaders (MPS) harnesses the massive parallelism of the GPU to dramatically accelerate calculations at the heart of modern ray tracing and ray casting techniques. See how ray tracing can provide greater realism in 3D scenes through improved shading, soft shadows, and global...",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          },
+          {
+            "url": "/videos/play/wwdc2018/607/",
+            "title": "Metal for Game Developers",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal 2 is Apple-designed graphics software that lets developers build console‑style games. Learn key aspects of the Metal architecture that support the techniques for modern high-performance game rendering. See how Metal now enables the GPU to schedule work for itself, allowing complete scenes...",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          },
+          {
+            "url": "/videos/play/wwdc2018/608/",
+            "title": "Metal Shader Debugging and Profiling",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal provides powerful tools for analyzing shader behavior and optimizing performance. Dive into troubleshooting vertex-stage problems with new geometry viewing capabilities in Xcode. Use the shader debugger to step through vertex, fragment, and compute shader execution line-by-line. Get details...",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          },
+          {
+            "url": "/videos/play/wwdc2018/611/",
+            "title": "Metal for VR",
+            "platform": "macOS",
+            "content": "On macOS, Metal 2 adds specialized support for virtual reality (VR) rendering and external GPUs. Learn about new features and optimizations to take advantage of these technologies within your Metal 2-based apps and games. Understand best practices for scheduling workloads across multiple GPUs and...",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          },
+          {
+            "url": "/videos/play/wwdc2018/612/",
+            "title": "Metal Game Performance Optimization",
+            "platform": "iOS, macOS",
+            "content": "Realize the full potential of your Metal-based games by tackling common issues that cause frame rate slowdowns, stutters, and stalls. Discover how to clear up jitter and maintain a silky-smooth frame rate with simple changes in frame pacing. Get introduced to new tools for analyzing rendering...",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          },
+          {
+            "url": "/videos/play/wwdc2018/805/",
+            "title": "Creating Great AR Experiences",
+            "platform": "iOS",
+            "content": "Engaging AR experiences are easy to start and navigate, persuasively realistic, and highly immersive. Learn best practices for successfully bringing people into an AR experience, teaching them about how to interact and engage with virtual content, and making your AR content look beautiful and...",
+            "type": "video",
+            "parent_topic": " 3D Graphics"
+          }
+        ]
+      },
+      {
+        "name": " Games",
+        "url": "/videos/graphics-and-games/games",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/103/",
+            "title": "Apple Design Awards",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Join us for an unforgettable award ceremony celebrating developers and their outstanding work. The 2018 Apple Design Awards recognize state of the art iOS, macOS, watchOS, and tvOS apps that reflect excellence in design and innovation.",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/601/",
+            "title": "Live Screen Broadcast with ReplayKit",
+            "platform": "iOS, tvOS",
+            "content": "ReplayKit 2 provides built-in services for broadcasting your screen from iOS and tvOS to viewers online. See how broadcasts can be started right within Control Center or from standard UI included in your own apps and games. Hear about developing broadcast extensions for ReplayKit 2 and get best...",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/602/",
+            "title": "What’s New in ARKit 2",
+            "platform": "iOS",
+            "content": "ARKit 2 makes it easy to develop vivid augmented reality experiences and enable apps to interact with the real world in entirely new ways. Discover how multiple iOS devices can simultaneously view an AR scene or play multiplayer AR games. Learn about new capabilities for tracking 2D images, and...",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/604/",
+            "title": "Metal for OpenGL Developers",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal is the foundation for accelerated graphics and compute on Apple platforms, enabling your apps and games to tap into the incredible power of the GPU. Get introduced to essential Metal capabilities and understand the recommended approach for transitioning OpenGL-based apps onto the Metal API.",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/605/",
+            "title": "Inside SwiftShot: Creating an AR Game",
+            "platform": "iOS",
+            "content": "Developed by Apple, SwiftShot is an energetic and immersive multiplayer AR game built with key iOS technologies. Glimpse behind the curtain and see how SwiftShot was designed and developed using ARKit, SceneKit, and Swift. Understand the intricacies of designing great gameplay for AR, and learn...",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/606/",
+            "title": "Metal for Ray Tracing Acceleration",
+            "platform": "iOS, macOS",
+            "content": "Metal Performance Shaders (MPS) harnesses the massive parallelism of the GPU to dramatically accelerate calculations at the heart of modern ray tracing and ray casting techniques. See how ray tracing can provide greater realism in 3D scenes through improved shading, soft shadows, and global...",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/607/",
+            "title": "Metal for Game Developers",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal 2 is Apple-designed graphics software that lets developers build console‑style games. Learn key aspects of the Metal architecture that support the techniques for modern high-performance game rendering. See how Metal now enables the GPU to schedule work for itself, allowing complete scenes...",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/608/",
+            "title": "Metal Shader Debugging and Profiling",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal provides powerful tools for analyzing shader behavior and optimizing performance. Dive into troubleshooting vertex-stage problems with new geometry viewing capabilities in Xcode. Use the shader debugger to step through vertex, fragment, and compute shader execution line-by-line. Get details...",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/610/",
+            "title": "Understanding ARKit Tracking and Detection",
+            "platform": "iOS",
+            "content": "With ARKit your app can see the world and place virtual objects on horizontal and vertical surfaces and recognize images and objects. Go beyond the API to gain insights into the innovative methods and techniques underlying these capabilities. See how ARKit combines device motion with the camera...",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/611/",
+            "title": "Metal for VR",
+            "platform": "macOS",
+            "content": "On macOS, Metal 2 adds specialized support for virtual reality (VR) rendering and external GPUs. Learn about new features and optimizations to take advantage of these technologies within your Metal 2-based apps and games. Understand best practices for scheduling workloads across multiple GPUs and...",
+            "type": "video",
+            "parent_topic": " Games"
+          },
+          {
+            "url": "/videos/play/wwdc2018/612/",
+            "title": "Metal Game Performance Optimization",
+            "platform": "iOS, macOS",
+            "content": "Realize the full potential of your Metal-based games by tackling common issues that cause frame rate slowdowns, stutters, and stalls. Discover how to clear up jitter and maintain a silky-smooth frame rate with simple changes in frame pacing. Get introduced to new tools for analyzing rendering...",
+            "type": "video",
+            "parent_topic": " Games"
+          }
+        ]
+      },
+      {
+        "name": " Metal",
+        "url": "/videos/graphics-and-games/metal",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/604/",
+            "title": "Metal for OpenGL Developers",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal is the foundation for accelerated graphics and compute on Apple platforms, enabling your apps and games to tap into the incredible power of the GPU. Get introduced to essential Metal capabilities and understand the recommended approach for transitioning OpenGL-based apps onto the Metal API.",
+            "type": "video",
+            "parent_topic": " Metal"
+          },
+          {
+            "url": "/videos/play/wwdc2018/606/",
+            "title": "Metal for Ray Tracing Acceleration",
+            "platform": "iOS, macOS",
+            "content": "Metal Performance Shaders (MPS) harnesses the massive parallelism of the GPU to dramatically accelerate calculations at the heart of modern ray tracing and ray casting techniques. See how ray tracing can provide greater realism in 3D scenes through improved shading, soft shadows, and global...",
+            "type": "video",
+            "parent_topic": " Metal"
+          },
+          {
+            "url": "/videos/play/wwdc2018/607/",
+            "title": "Metal for Game Developers",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal 2 is Apple-designed graphics software that lets developers build console‑style games. Learn key aspects of the Metal architecture that support the techniques for modern high-performance game rendering. See how Metal now enables the GPU to schedule work for itself, allowing complete scenes...",
+            "type": "video",
+            "parent_topic": " Metal"
+          },
+          {
+            "url": "/videos/play/wwdc2018/608/",
+            "title": "Metal Shader Debugging and Profiling",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal provides powerful tools for analyzing shader behavior and optimizing performance. Dive into troubleshooting vertex-stage problems with new geometry viewing capabilities in Xcode. Use the shader debugger to step through vertex, fragment, and compute shader execution line-by-line. Get details...",
+            "type": "video",
+            "parent_topic": " Metal"
+          },
+          {
+            "url": "/videos/play/wwdc2018/609/",
+            "title": "Metal for Accelerating Machine Learning",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal Performance Shaders (MPS) includes a highly tuned library of machine learning primitives leveraging the tremendous power of the GPU. With iOS 12 and macOS Mojave, MPS adds capabilities to accelerate the computationally intensive task of training a neural network. Learn performance...",
+            "type": "video",
+            "parent_topic": " Metal"
+          },
+          {
+            "url": "/videos/play/wwdc2018/611/",
+            "title": "Metal for VR",
+            "platform": "macOS",
+            "content": "On macOS, Metal 2 adds specialized support for virtual reality (VR) rendering and external GPUs. Learn about new features and optimizations to take advantage of these technologies within your Metal 2-based apps and games. Understand best practices for scheduling workloads across multiple GPUs and...",
+            "type": "video",
+            "parent_topic": " Metal"
+          },
+          {
+            "url": "/videos/play/wwdc2018/612/",
+            "title": "Metal Game Performance Optimization",
+            "platform": "iOS, macOS",
+            "content": "Realize the full potential of your Metal-based games by tackling common issues that cause frame rate slowdowns, stutters, and stalls. Discover how to clear up jitter and maintain a silky-smooth frame rate with simple changes in frame pacing. Get introduced to new tools for analyzing rendering...",
+            "type": "video",
+            "parent_topic": " Metal"
+          },
+          {
+            "url": "/videos/play/wwdc2018/719/",
+            "title": "Core Image: Performance, Prototyping, and Python",
+            "platform": "iOS, macOS",
+            "content": "Core Image is the essential framework for handling image processing tasks in your photo and video apps. In this session, we'll explore new additions to the framework that allow you to achieve great performance in your filter chains and custom CIKernels. We'll also demo a new approach to...",
+            "type": "video",
+            "parent_topic": " Metal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Media",
+    "url": "/videos/media/",
+    "type": "topic",
+    "children": [
+      {
+        "name": " Audio",
+        "url": "/videos/media/audio",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/206/",
+            "title": "What's New in watchOS",
+            "platform": "watchOS",
+            "content": "watchOS 5 makes creating great experiences on Apple Watch easier than ever before. Learn about robust capabilities to create rich and interactive notifications, a new background mode and controls for audio playback, shortcuts that bring your apps to the Siri watch face, and more. See what's new...",
+            "type": "video",
+            "parent_topic": " Audio"
+          },
+          {
+            "url": "/videos/play/wwdc2018/236/",
+            "title": "AVSpeechSynthesizer: Making iOS Talk",
+            "platform": "iOS",
+            "content": "Speech can enhance the audio experience of your app, whether you are generating spoken feedback for accessibility, or providing critical information beyond simple alerts or notifications. AVSpeechSynthesizer produces synthesized speech from text and allows you to control and monitor the progress...",
+            "type": "video",
+            "parent_topic": " Audio"
+          },
+          {
+            "url": "/videos/play/wwdc2018/501/",
+            "title": "Introducing Podcast Analytics",
+            "platform": "iOS, macOS, watchOS",
+            "content": "Podcasts are created and enjoyed by millions of people around the world. With the addition of Podcast Analytics, podcasters can gather actionable and insightful intelligence into how their show is consumed, while respecting the privacy of their listeners. Learn how to interpret and use these new...",
+            "type": "video",
+            "parent_topic": " Audio"
+          },
+          {
+            "url": "/videos/play/wwdc2018/502/",
+            "title": "Measuring and Optimizing HLS Performance",
+            "platform": "iOS, macOS, tvOS",
+            "content": "HTTP Live Streaming (HLS) is used to stream live and on-demand content to global audiences. Discover how to adjust and tune stream authoring and delivery elements to improve the viewing experience. Learn how to accurately measure your streaming performance, identify optimization opportunities,...",
+            "type": "video",
+            "parent_topic": " Audio"
+          },
+          {
+            "url": "/videos/play/wwdc2018/504/",
+            "title": "Creating Audio Apps for watchOS",
+            "platform": "watchOS",
+            "content": "Apps in watchOS 5 have control over audio playback like never before.  With a full-fledged background mode for local audio playback using AVFoundation, people can listen to content on the go right from Apple Watch. Learn how to use the new volume control and how to respond to MediaRemote...",
+            "type": "video",
+            "parent_topic": " Audio"
+          },
+          {
+            "url": "/videos/play/wwdc2018/506/",
+            "title": "MusicKit on the Web",
+            "platform": "iOS, macOS",
+            "content": "MusicKit has enabled the creation of new, compelling, and engaging Apple Music powered app experiences. With the introduction of MusicKit on the web, as a developer, you can now bring Apple Music powered experiences to the web. Learn how to use declarative markup or javascript to enable Apple...",
+            "type": "video",
+            "parent_topic": " Audio"
+          },
+          {
+            "url": "/videos/play/wwdc2018/601/",
+            "title": "Live Screen Broadcast with ReplayKit",
+            "platform": "iOS, tvOS",
+            "content": "ReplayKit 2 provides built-in services for broadcasting your screen from iOS and tvOS to viewers online. See how broadcasts can be started right within Control Center or from standard UI included in your own apps and games. Hear about developing broadcast extensions for ReplayKit 2 and get best...",
+            "type": "video",
+            "parent_topic": " Audio"
+          }
+        ]
+      },
+      {
+        "name": " Camera",
+        "url": "/videos/media/camera",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/503/",
+            "title": "Creating Photo and Video Effects Using Depth",
+            "platform": "iOS",
+            "content": "The TrueDepth camera in the iPhone X streams high-quality depth data in real time allowing you to enhance your photo and video apps in fun and creative ways. Dive deep into the principles and best practices for working with depth data, learn how to use the new Portrait Segmentation API for still...",
+            "type": "video",
+            "parent_topic": " Camera"
+          }
+        ]
+      },
+      {
+        "name": " Photos and Imaging",
+        "url": "/videos/media/photos-and-imaging",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/219/",
+            "title": "Image and Graphics Best Practices",
+            "platform": "iOS",
+            "content": "Whether it's for UI elements or a fundamental part of your application, at some point, you have to handle images. This session is packed with engaging insight into how images are handled in iOS including discussion of UIImage, UIImageView, custom drawing in UIKit, plus advanced CPU and GPU...",
+            "type": "video",
+            "parent_topic": " Photos and Imaging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/503/",
+            "title": "Creating Photo and Video Effects Using Depth",
+            "platform": "iOS",
+            "content": "The TrueDepth camera in the iPhone X streams high-quality depth data in real time allowing you to enhance your photo and video apps in fun and creative ways. Dive deep into the principles and best practices for working with depth data, learn how to use the new Portrait Segmentation API for still...",
+            "type": "video",
+            "parent_topic": " Photos and Imaging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/505/",
+            "title": "Integrating with Photos on macOS",
+            "platform": "macOS",
+            "content": "Make your apps even better through improved integration with Photos on macOS. We'll dive deep into the Photos Project Extension API that was introduced in macOS High Sierra and update you on what's new. You'll also learn best practices for handling file promises and image URLs to better handle...",
+            "type": "video",
+            "parent_topic": " Photos and Imaging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/716/",
+            "title": "Object Tracking in Vision",
+            "platform": "iOS, macOS",
+            "content": "Vision is a high-level framework that provides an easy to use API for handling many computer vision tasks. We'll dive deep into a particularly powerful feature of Vision—tracking objects in video streams. Learn best practices for using Vision in your app. Gain a greater understanding of how...",
+            "type": "video",
+            "parent_topic": " Photos and Imaging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/717/",
+            "title": "Vision with Core ML",
+            "platform": "iOS, macOS",
+            "content": "Using Core ML models in Vision makes the creation of powerful Computer Vision applications easy. Learn how easy it is to use custom trained classifiers and object recognition models in a live camera capture. In addition, you'll learn about the latest additions to the Vision Framework along with a...",
+            "type": "video",
+            "parent_topic": " Photos and Imaging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/719/",
+            "title": "Core Image: Performance, Prototyping, and Python",
+            "platform": "iOS, macOS",
+            "content": "Core Image is the essential framework for handling image processing tasks in your photo and video apps. In this session, we'll explore new additions to the framework that allow you to achieve great performance in your filter chains and custom CIKernels. We'll also demo a new approach to...",
+            "type": "video",
+            "parent_topic": " Photos and Imaging"
+          }
+        ]
+      },
+      {
+        "name": " Video",
+        "url": "/videos/media/video",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/502/",
+            "title": "Measuring and Optimizing HLS Performance",
+            "platform": "iOS, macOS, tvOS",
+            "content": "HTTP Live Streaming (HLS) is used to stream live and on-demand content to global audiences. Discover how to adjust and tune stream authoring and delivery elements to improve the viewing experience. Learn how to accurately measure your streaming performance, identify optimization opportunities,...",
+            "type": "video",
+            "parent_topic": " Video"
+          },
+          {
+            "url": "/videos/play/wwdc2018/503/",
+            "title": "Creating Photo and Video Effects Using Depth",
+            "platform": "iOS",
+            "content": "The TrueDepth camera in the iPhone X streams high-quality depth data in real time allowing you to enhance your photo and video apps in fun and creative ways. Dive deep into the principles and best practices for working with depth data, learn how to use the new Portrait Segmentation API for still...",
+            "type": "video",
+            "parent_topic": " Video"
+          },
+          {
+            "url": "/videos/play/wwdc2018/507/",
+            "title": "AVContentKeySession Best Practices",
+            "platform": "iOS, tvOS",
+            "content": "AVContentKeySession allows for the management of FairPlay content decryption keys for HTTP Live Streaming. It offers a simplified key loading process that provides applications with control over the lifecycle of content keys, and features such as dual-expiry keys for offline movie rentals. Learn...",
+            "type": "video",
+            "parent_topic": " Video"
+          },
+          {
+            "url": "/videos/play/wwdc2018/601/",
+            "title": "Live Screen Broadcast with ReplayKit",
+            "platform": "iOS, tvOS",
+            "content": "ReplayKit 2 provides built-in services for broadcasting your screen from iOS and tvOS to viewers online. See how broadcasts can be started right within Control Center or from standard UI included in your own apps and games. Hear about developing broadcast extensions for ReplayKit 2 and get best...",
+            "type": "video",
+            "parent_topic": " Video"
+          },
+          {
+            "url": "/videos/play/wwdc2018/716/",
+            "title": "Object Tracking in Vision",
+            "platform": "iOS, macOS",
+            "content": "Vision is a high-level framework that provides an easy to use API for handling many computer vision tasks. We'll dive deep into a particularly powerful feature of Vision—tracking objects in video streams. Learn best practices for using Vision in your app. Gain a greater understanding of how...",
+            "type": "video",
+            "parent_topic": " Video"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Developer Tools",
+    "url": "/videos/developer-tools/",
+    "type": "topic",
+    "children": [
+      {
+        "name": " Compiler and LLVM",
+        "url": "/videos/developer-tools/compiler-and-llvm",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/408/",
+            "title": "Building Faster in Xcode",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Build your apps faster in Xcode 10. Learn how to structure your projects and tweak your code to take full advantage of all processor cores. Whether you've made a few small code changes you want to give a try, or you're building your full app for release, these techniques will cut the time it...",
+            "type": "video",
+            "parent_topic": " Compiler and LLVM"
+          },
+          {
+            "url": "/videos/play/wwdc2018/409/",
+            "title": "What's New in LLVM",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "The LLVM suite of compiler tools in Xcode 10 have new language features, improved diagnostics, and more powerful optimizations. Find out about improvements to ARC for Objective-C, keep up with the newest additions to C++, get an overview of new and improved diagnostics and static analyzer checks,...",
+            "type": "video",
+            "parent_topic": " Compiler and LLVM"
+          },
+          {
+            "url": "/videos/play/wwdc2018/415/",
+            "title": "Behind the Scenes of the Xcode Build Process",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Ever wonder what happens when you build your project in Xcode? Learn how Xcode automates the steps required to build an application, and go behind the scenes to learn how clang, swiftc, and the linker work together to turn your source code into a working program.",
+            "type": "video",
+            "parent_topic": " Compiler and LLVM"
+          }
+        ]
+      },
+      {
+        "name": " Debugging",
+        "url": "/videos/developer-tools/debugging",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/224/",
+            "title": "Core Data Best Practices",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "As your app gains more customers and becomes more feature-rich, you may find yourself with new problems to solve. Core Data is a powerful tool that has changed a lot over the years. Learn about the new best practices in Core Data, such as how to use concurrency and persistent history, and...",
+            "type": "video",
+            "parent_topic": " Debugging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/228/",
+            "title": "What’s New in Energy Debugging",
+            "platform": "iOS",
+            "content": "People expect long battery life on their mobile devices, and apps play a vital role in achieving that experience. Understand how app behavior affects battery consumption, and learn strategies to conserve energy while providing the best experience for your app. Find out how Xcode Energy Reports...",
+            "type": "video",
+            "parent_topic": " Debugging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/405/",
+            "title": "Measuring Performance Using Logging",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Learn how to use signposts and logging to measure performance.  Understand how the Points of Interest instrument can be used to examine logged data. Get an introduction into creating and using custom instruments.",
+            "type": "video",
+            "parent_topic": " Debugging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/407/",
+            "title": "Practical Approaches to Great App Performance",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "All apps benefit from a focus on performance and an increase in overall responsiveness. This information packed session gives you strategies for fixing performance problems using Instruments and other tools. Additionally, get practical advice based on experience in tuning Apple's own apps...",
+            "type": "video",
+            "parent_topic": " Debugging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/410/",
+            "title": "Creating Custom Instruments",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Understand how custom instruments are useful and when they should be used. Get an in-depth view of the architecture of custom instruments and how to create them. Understand the attributes of a good instrument. Dive into advanced modeling and how to use the CLIPS language.",
+            "type": "video",
+            "parent_topic": " Debugging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/412/",
+            "title": "Advanced Debugging with Xcode and LLDB",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Discover advanced techniques, and tips and tricks for enhancing your Xcode debugging workflows. Learn how to take advantage of LLDB and custom breakpoints for more powerful debugging. Get the most out of Xcode's view debugging tools to solve UI issues in your app more efficiently.",
+            "type": "video",
+            "parent_topic": " Debugging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/414/",
+            "title": "Understanding Crashes and Crash Logs",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Sudden app crashes are a source of bad user experience and app review rejections. Learn how crash logs can be analyzed, what information they contain and how to diagnose the causes of crashes, including hard-to-reproduce memory corruptions and multithreading issues.",
+            "type": "video",
+            "parent_topic": " Debugging"
+          },
+          {
+            "url": "/videos/play/wwdc2018/416/",
+            "title": "iOS Memory Deep Dive",
+            "platform": "iOS, tvOS, watchOS",
+            "content": "Discover how memory graphs can be used to get a close up look at what is contributing to an app's memory footprint. Understand the true memory cost of an image. Learn some tips and tricks for reducing the memory footprint of an app.",
+            "type": "video",
+            "parent_topic": " Debugging"
+          }
+        ]
+      },
+      {
+        "name": " Interface Builder",
+        "url": "/videos/developer-tools/interface-builder",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/209/",
+            "title": "What's New in Cocoa for macOS",
+            "platform": "macOS",
+            "content": "Gain insights into the latest in Cocoa frameworks for macOS. Hear about Dark Mode, control tinting, contextual workflows for Touch Bar and Finder, and other improvements in AppKit, Foundation, and related areas. Get an overview and guide to the sessions that we have this year covering...",
+            "type": "video",
+            "parent_topic": " Interface Builder"
+          },
+          {
+            "url": "/videos/play/wwdc2018/210/",
+            "title": "Introducing Dark Mode",
+            "platform": "macOS",
+            "content": "Hear from the Apple design team about the principles and concepts that anchor Dark Mode. Learn the basics of enhancing your app with this new appearance, and add an experience that people are sure to love.",
+            "type": "video",
+            "parent_topic": " Interface Builder"
+          },
+          {
+            "url": "/videos/play/wwdc2018/227/",
+            "title": "Optimizing App Assets",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Learn how to use assets to bring visually compelling and data efficient artwork to your apps, leveraging new features in iOS 12. Gain insight into organizing, optimizing, and authoring artwork assets by using asset catalogs to their fullest. Learn techniques to better streamline workflows between...",
+            "type": "video",
+            "parent_topic": " Interface Builder"
+          }
+        ]
+      },
+      {
+        "name": " Performance",
+        "url": "/videos/developer-tools/performance",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/224/",
+            "title": "Core Data Best Practices",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "As your app gains more customers and becomes more feature-rich, you may find yourself with new problems to solve. Core Data is a powerful tool that has changed a lot over the years. Learn about the new best practices in Core Data, such as how to use concurrency and persistent history, and...",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/227/",
+            "title": "Optimizing App Assets",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Learn how to use assets to bring visually compelling and data efficient artwork to your apps, leveraging new features in iOS 12. Gain insight into organizing, optimizing, and authoring artwork assets by using asset catalogs to their fullest. Learn techniques to better streamline workflows between...",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/228/",
+            "title": "What’s New in Energy Debugging",
+            "platform": "iOS",
+            "content": "People expect long battery life on their mobile devices, and apps play a vital role in achieving that experience. Understand how app behavior affects battery consumption, and learn strategies to conserve energy while providing the best experience for your app. Find out how Xcode Energy Reports...",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/407/",
+            "title": "Practical Approaches to Great App Performance",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "All apps benefit from a focus on performance and an increase in overall responsiveness. This information packed session gives you strategies for fixing performance problems using Instruments and other tools. Additionally, get practical advice based on experience in tuning Apple's own apps...",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/408/",
+            "title": "Building Faster in Xcode",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Build your apps faster in Xcode 10. Learn how to structure your projects and tweak your code to take full advantage of all processor cores. Whether you've made a few small code changes you want to give a try, or you're building your full app for release, these techniques will cut the time it...",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/409/",
+            "title": "What's New in LLVM",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "The LLVM suite of compiler tools in Xcode 10 have new language features, improved diagnostics, and more powerful optimizations. Find out about improvements to ARC for Objective-C, keep up with the newest additions to C++, get an overview of new and improved diagnostics and static analyzer checks,...",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/410/",
+            "title": "Creating Custom Instruments",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Understand how custom instruments are useful and when they should be used. Get an in-depth view of the architecture of custom instruments and how to create them. Understand the attributes of a good instrument. Dive into advanced modeling and how to use the CLIPS language.",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/502/",
+            "title": "Measuring and Optimizing HLS Performance",
+            "platform": "iOS, macOS, tvOS",
+            "content": "HTTP Live Streaming (HLS) is used to stream live and on-demand content to global audiences. Discover how to adjust and tune stream authoring and delivery elements to improve the viewing experience. Learn how to accurately measure your streaming performance, identify optimization opportunities,...",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/608/",
+            "title": "Metal Shader Debugging and Profiling",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal provides powerful tools for analyzing shader behavior and optimizing performance. Dive into troubleshooting vertex-stage problems with new geometry viewing capabilities in Xcode. Use the shader debugger to step through vertex, fragment, and compute shader execution line-by-line. Get details...",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/609/",
+            "title": "Metal for Accelerating Machine Learning",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Metal Performance Shaders (MPS) includes a highly tuned library of machine learning primitives leveraging the tremendous power of the GPU. With iOS 12 and macOS Mojave, MPS adds capabilities to accelerate the computationally intensive task of training a neural network. Learn performance...",
+            "type": "video",
+            "parent_topic": " Performance"
+          },
+          {
+            "url": "/videos/play/wwdc2018/612/",
+            "title": "Metal Game Performance Optimization",
+            "platform": "iOS, macOS",
+            "content": "Realize the full potential of your Metal-based games by tackling common issues that cause frame rate slowdowns, stutters, and stalls. Discover how to clear up jitter and maintain a silky-smooth frame rate with simple changes in frame pacing. Get introduced to new tools for analyzing rendering...",
+            "type": "video",
+            "parent_topic": " Performance"
+          }
+        ]
+      },
+      {
+        "name": " Swift",
+        "url": "/videos/developer-tools/swift",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/222/",
+            "title": "Data You Can Trust",
+            "platform": "iOS, macOS",
+            "content": "A lot can go wrong when loading data into your app. Whether you work directly with JSON and property lists, or with higher-level APIs such as NSCoding and Codable, learn how to defend your customers and secure your code against invalid or malicious data. Avoid fatal assumptions by validating...",
+            "type": "video",
+            "parent_topic": " Swift"
+          },
+          {
+            "url": "/videos/play/wwdc2018/223/",
+            "title": "Embracing Algorithms",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "When you imagine building a new app, what do you think about? Models, views, and controllers deserve their prominent place in the design process, but we don't often give the same attention to the underlying work our apps need to do. Understand how to identify and optimize the algorithms in your...",
+            "type": "video",
+            "parent_topic": " Swift"
+          },
+          {
+            "url": "/videos/play/wwdc2018/229/",
+            "title": "Using Collections Effectively",
+            "platform": "macOS",
+            "content": "Every app uses collections! Go beyond the basics with specific tips on how best to use indices, slices, bridging, laziness, and reference types. Gain better understanding of when to use each collection for best performance.",
+            "type": "video",
+            "parent_topic": " Swift"
+          },
+          {
+            "url": "/videos/play/wwdc2018/401/",
+            "title": "What's New in Swift",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Hear about the latest advancements in Swift, the safe, fast, and expressive language. Find out about improvements to build times, code size, and runtime performance. Learn how to take advantage of new features in your code that eliminate boilerplate, increase safety and security, and improve your...",
+            "type": "video",
+            "parent_topic": " Swift"
+          },
+          {
+            "url": "/videos/play/wwdc2018/402/",
+            "title": "Getting the Most out of Playgrounds in Xcode",
+            "platform": "iOS, macOS",
+            "content": "Discover major advancements in Xcode playgrounds. Learn advanced tips and techniques, hear about new and often overlooked workflows, and rediscover the tools provided when coding in playgrounds.",
+            "type": "video",
+            "parent_topic": " Swift"
+          },
+          {
+            "url": "/videos/play/wwdc2018/406/",
+            "title": "Swift Generics",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Generics are one of the most powerful features of Swift, enabling you to write flexible, reusable components while maintaining static type information. Learn about the design of Swift's generics, including how to generalize protocols, leverage protocol inheritance to express the varying...",
+            "type": "video",
+            "parent_topic": " Swift"
+          },
+          {
+            "url": "/videos/play/wwdc2018/408/",
+            "title": "Building Faster in Xcode",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Build your apps faster in Xcode 10. Learn how to structure your projects and tweak your code to take full advantage of all processor cores. Whether you've made a few small code changes you want to give a try, or you're building your full app for release, these techniques will cut the time it...",
+            "type": "video",
+            "parent_topic": " Swift"
+          },
+          {
+            "url": "/videos/play/wwdc2018/411/",
+            "title": "Getting to Know Swift Package Manager",
+            "platform": "macOS",
+            "content": "The Swift Package Manager makes it possible to easily develop and distribute source code in the Swift ecosystem. Learn about its goals, design, unique features, and the opportunities it has for continued evolution.",
+            "type": "video",
+            "parent_topic": " Swift"
+          },
+          {
+            "url": "/videos/play/wwdc2018/413/",
+            "title": "Create Your Own Swift Playgrounds Subscription",
+            "platform": "iOS",
+            "content": "Swift Playgrounds is a revolutionary iPad app to teach coding with the powerful Swift programming language. Learn how to create your own content for Swift Playgrounds using the new template, and find out how to use the subscription format to host your own feed online for others to access.",
+            "type": "video",
+            "parent_topic": " Swift"
+          },
+          {
+            "url": "/videos/play/wwdc2018/415/",
+            "title": "Behind the Scenes of the Xcode Build Process",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Ever wonder what happens when you build your project in Xcode? Learn how Xcode automates the steps required to build an application, and go behind the scenes to learn how clang, swiftc, and the linker work together to turn your source code into a working program.",
+            "type": "video",
+            "parent_topic": " Swift"
+          }
+        ]
+      },
+      {
+        "name": " Testing",
+        "url": "/videos/developer-tools/testing",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/403/",
+            "title": "What's New in Testing",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Hear about exciting improvements to code coverage, including how you can build your own automation on top of Xcode's coverage reports. Learn how to dramatically speed up the execution of your tests by leveraging distributed parallel testing, new in Xcode 10.",
+            "type": "video",
+            "parent_topic": " Testing"
+          },
+          {
+            "url": "/videos/play/wwdc2018/405/",
+            "title": "Measuring Performance Using Logging",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Learn how to use signposts and logging to measure performance.  Understand how the Points of Interest instrument can be used to examine logged data. Get an introduction into creating and using custom instruments.",
+            "type": "video",
+            "parent_topic": " Testing"
+          },
+          {
+            "url": "/videos/play/wwdc2018/407/",
+            "title": "Practical Approaches to Great App Performance",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "All apps benefit from a focus on performance and an increase in overall responsiveness. This information packed session gives you strategies for fixing performance problems using Instruments and other tools. Additionally, get practical advice based on experience in tuning Apple's own apps...",
+            "type": "video",
+            "parent_topic": " Testing"
+          },
+          {
+            "url": "/videos/play/wwdc2018/416/",
+            "title": "iOS Memory Deep Dive",
+            "platform": "iOS, tvOS, watchOS",
+            "content": "Discover how memory graphs can be used to get a close up look at what is contributing to an app's memory footprint. Understand the true memory cost of an image. Learn some tips and tricks for reducing the memory footprint of an app.",
+            "type": "video",
+            "parent_topic": " Testing"
+          },
+          {
+            "url": "/videos/play/wwdc2018/417/",
+            "title": "Testing Tips & Tricks",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Testing is an essential tool to consistently verify your code works correctly, but often your code has dependencies that are out of your control. Discover techniques for making hard-to-test code testable on Apple platforms using XCTest. Learn a variety of tips for writing higher-quality tests...",
+            "type": "video",
+            "parent_topic": " Testing"
+          }
+        ]
+      },
+      {
+        "name": " Xcode",
+        "url": "/videos/developer-tools/xcode",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/227/",
+            "title": "Optimizing App Assets",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Learn how to use assets to bring visually compelling and data efficient artwork to your apps, leveraging new features in iOS 12. Gain insight into organizing, optimizing, and authoring artwork assets by using asset catalogs to their fullest. Learn techniques to better streamline workflows between...",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/228/",
+            "title": "What’s New in Energy Debugging",
+            "platform": "iOS",
+            "content": "People expect long battery life on their mobile devices, and apps play a vital role in achieving that experience. Understand how app behavior affects battery consumption, and learn strategies to conserve energy while providing the best experience for your app. Find out how Xcode Energy Reports...",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/402/",
+            "title": "Getting the Most out of Playgrounds in Xcode",
+            "platform": "iOS, macOS",
+            "content": "Discover major advancements in Xcode playgrounds. Learn advanced tips and techniques, hear about new and often overlooked workflows, and rediscover the tools provided when coding in playgrounds.",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/403/",
+            "title": "What's New in Testing",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Hear about exciting improvements to code coverage, including how you can build your own automation on top of Xcode's coverage reports. Learn how to dramatically speed up the execution of your tests by leveraging distributed parallel testing, new in Xcode 10.",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/404/",
+            "title": "New Localization Workflows in Xcode 10",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "The localization process in Xcode 10 has been updated to aid you through the lifecycle of exporting, importing, and testing localized content in your apps. See new functionality added in Xcode 10 and learn how the new localization catalog helps you build world-class, localized apps.",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/405/",
+            "title": "Measuring Performance Using Logging",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Learn how to use signposts and logging to measure performance.  Understand how the Points of Interest instrument can be used to examine logged data. Get an introduction into creating and using custom instruments.",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/408/",
+            "title": "Building Faster in Xcode",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Build your apps faster in Xcode 10. Learn how to structure your projects and tweak your code to take full advantage of all processor cores. Whether you've made a few small code changes you want to give a try, or you're building your full app for release, these techniques will cut the time it...",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/410/",
+            "title": "Creating Custom Instruments",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Understand how custom instruments are useful and when they should be used. Get an in-depth view of the architecture of custom instruments and how to create them. Understand the attributes of a good instrument. Dive into advanced modeling and how to use the CLIPS language.",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/412/",
+            "title": "Advanced Debugging with Xcode and LLDB",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Discover advanced techniques, and tips and tricks for enhancing your Xcode debugging workflows. Learn how to take advantage of LLDB and custom breakpoints for more powerful debugging. Get the most out of Xcode's view debugging tools to solve UI issues in your app more efficiently.",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/414/",
+            "title": "Understanding Crashes and Crash Logs",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Sudden app crashes are a source of bad user experience and app review rejections. Learn how crash logs can be analyzed, what information they contain and how to diagnose the causes of crashes, including hard-to-reproduce memory corruptions and multithreading issues.",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/415/",
+            "title": "Behind the Scenes of the Xcode Build Process",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Ever wonder what happens when you build your project in Xcode? Learn how Xcode automates the steps required to build an application, and go behind the scenes to learn how clang, swiftc, and the linker work together to turn your source code into a working program.",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/417/",
+            "title": "Testing Tips & Tricks",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Testing is an essential tool to consistently verify your code works correctly, but often your code has dependencies that are out of your control. Discover techniques for making hard-to-test code testable on Apple platforms using XCTest. Learn a variety of tips for writing higher-quality tests...",
+            "type": "video",
+            "parent_topic": " Xcode"
+          },
+          {
+            "url": "/videos/play/wwdc2018/418/",
+            "title": "Source Control Workflows in Xcode",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Xcode integrates with GitHub, Bitbucket, and GitLab to help you manage your source code, back up your files, and collaborate with others. Find out how to easily see the changes in your project right in the source editor, and learn how to use Xcode for common source control workflows with Git. See...",
+            "type": "video",
+            "parent_topic": " Xcode"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "App Store and Distribution",
+    "url": "/videos/app-store-and-distribution/",
+    "type": "topic",
+    "children": [
+      {
+        "name": " Business Models",
+        "url": "/videos/app-store-and-distribution/business-models",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/232/",
+            "title": "Getting Ready for Business Chat",
+            "platform": "iOS",
+            "content": "Business Chat is a powerful way for organizations to connect with customers directly from within Messages. Whether you are a Customer Service Platform provider, a brand looking to integrate chat for customer communication, or a brand app developer looking to extend your iOS app to enhance...",
+            "type": "video",
+            "parent_topic": " Business Models"
+          },
+          {
+            "url": "/videos/play/wwdc2018/304/",
+            "title": "What's New in Search Ads",
+            "platform": "iOS",
+            "content": "Search Ads is a great way to help people discover your app in App Store search results. Learn how new market expansion will give you greater opportunities to reach high quality customers. See how Search Ads Advanced new creative variations will help make your app promotion even more effective.",
+            "type": "video",
+            "parent_topic": " Business Models"
+          }
+        ]
+      },
+      {
+        "name": " Certificates and Signing",
+        "url": "/videos/app-store-and-distribution/certificates-and-signing",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/303/",
+            "title": "Automating App Store Connect",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "The new App Store Connect API provides a familiar and highly readable REST API designed to facilitate the automation of many tasks you would typically perform through the Apple Developer website and the App Store Connect browser interfaces. Learn how this API allows you to manage your apps and...",
+            "type": "video",
+            "parent_topic": " Certificates and Signing"
+          }
+        ]
+      },
+      {
+        "name": " Community Management",
+        "url": "/videos/app-store-and-distribution/community-management",
+        "type": "topic",
+        "videos": [
+
+        ]
+      },
+      {
+        "name": " Device Management",
+        "url": "/videos/app-store-and-distribution/device-management",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/302/",
+            "title": "What's New in Managing Apple Devices",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "Learn about new management capabilities for iOS, macOS, and tvOS, tool evolution over the past year, and important changes coming this fall. You'll discover how new MDM features help administrators manage devices more effectively, how educators can enhance the classroom learning environment, and...",
+            "type": "video",
+            "parent_topic": " Device Management"
+          }
+        ]
+      },
+      {
+        "name": " In-App Purchase and Subscriptions",
+        "url": "/videos/app-store-and-distribution/in-app-purchase-and-subscriptions",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/704/",
+            "title": "Best Practices and What’s New with In-App Purchases",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Learn about the latest updates in StoreKit, including offering introductory pricing for subscriptions, requesting ratings and reviews, promoting your in-app purchases within the App Store, and developing in the sandbox environment. Dive deep into best practices for processing transactions and...",
+            "type": "video",
+            "parent_topic": " In-App Purchase and Subscriptions"
+          },
+          {
+            "url": "/videos/play/wwdc2018/705/",
+            "title": "Engineering Subscriptions",
+            "platform": "iOS, macOS, tvOS",
+            "content": "Learn the best practices for architecting your subscription infrastructure using StoreKit and server-side logic. Find out about simple engineering techniques to keep your subscribers longer, and how to utilize new tools and APIs to give your subscribers the best experience.",
+            "type": "video",
+            "parent_topic": " In-App Purchase and Subscriptions"
+          }
+        ]
+      },
+      {
+        "name": " Marketing",
+        "url": "/videos/app-store-and-distribution/marketing",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/301/",
+            "title": "What's New in App Store Connect",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "App Store Connect is constantly evolving to improve the experience of managing and deploying your app on App Store. Learn about the new App Store Connect API for managing frequently modified data such as users and groups, see the latest updates to Sales Trends and Analytics reporting, and...",
+            "type": "video",
+            "parent_topic": " Marketing"
+          },
+          {
+            "url": "/videos/play/wwdc2018/304/",
+            "title": "What's New in Search Ads",
+            "platform": "iOS",
+            "content": "Search Ads is a great way to help people discover your app in App Store search results. Learn how new market expansion will give you greater opportunities to reach high quality customers. See how Search Ads Advanced new creative variations will help make your app promotion even more effective.",
+            "type": "video",
+            "parent_topic": " Marketing"
+          },
+          {
+            "url": "/videos/play/wwdc2018/501/",
+            "title": "Introducing Podcast Analytics",
+            "platform": "iOS, macOS, watchOS",
+            "content": "Podcasts are created and enjoyed by millions of people around the world. With the addition of Podcast Analytics, podcasters can gather actionable and insightful intelligence into how their show is consumed, while respecting the privacy of their listeners. Learn how to interpret and use these new...",
+            "type": "video",
+            "parent_topic": " Marketing"
+          }
+        ]
+      },
+      {
+        "name": " App Store Connect",
+        "url": "/videos/app-store-and-distribution/app-store-connect",
+        "type": "topic",
+        "videos": [
+          {
+            "url": "/videos/play/wwdc2018/301/",
+            "title": "What's New in App Store Connect",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "App Store Connect is constantly evolving to improve the experience of managing and deploying your app on App Store. Learn about the new App Store Connect API for managing frequently modified data such as users and groups, see the latest updates to Sales Trends and Analytics reporting, and...",
+            "type": "video",
+            "parent_topic": " App Store Connect"
+          },
+          {
+            "url": "/videos/play/wwdc2018/303/",
+            "title": "Automating App Store Connect",
+            "platform": "iOS, macOS, tvOS, watchOS",
+            "content": "The new App Store Connect API provides a familiar and highly readable REST API designed to facilitate the automation of many tasks you would typically perform through the Apple Developer website and the App Store Connect browser interfaces. Learn how this API allows you to manage your apps and...",
+            "type": "video",
+            "parent_topic": " App Store Connect"
+          }
+        ]
+      }
+    ]
+  }
+]
