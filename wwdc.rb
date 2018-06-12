@@ -146,10 +146,17 @@ def find_topics_in_wwdc_by_video_url(wwdc, video_url)
 end
 
 
-def generate_md(videos)
+def generate_md(videos, sorted_by_alphabetical)
 
   md = ""
   host = "https://developer.apple.com"
+
+  filename = "./example/wwdc.md"
+
+  if sorted_by_alphabetical
+    videos = videos.sort_by{ |k| k[:title]}
+    filename = "./example/wwdc_sorted_by_alphabetical.md"
+  end
 
 
   videos.each do |video|
@@ -161,7 +168,7 @@ def generate_md(videos)
     md << "\n"
   end
 
-  File.open("./example/wwdc.md",'wb+') do |file|
+  File.open(filename,'wb+') do |file|
       file << md
   end
 
@@ -224,7 +231,11 @@ def fetch_all_videos
       file << JSON.pretty_generate(videos)
   end
 
-  generate_md(videos)
+  generate_md(videos, false)
+  generate_md(videos, true)
+
+
+
 
 end
 
