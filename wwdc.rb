@@ -154,10 +154,10 @@ def generate_md(videos)
 
   videos.each do |video|
     md << "## " + video[:title] + "\n"
-    md << "platform : " + video[:platform] + "\n"
-    md << "topics : " + video[:topics].join("/") + "\n"
-    md << video[:content] + "\n"
-    md << "[link](" + host + video[:url] + ")" + "\n"
+    md << "platform : " + video[:platform] + "\n\n"
+    md << "topics : " + video[:topics].join("/") + "\n\n"
+    md << video[:content] + "\n\n"
+    md << "[link](" + host + video[:url] + ")" + "\n\n"
     md << "\n"
   end
 
