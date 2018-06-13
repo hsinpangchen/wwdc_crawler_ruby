@@ -202,7 +202,7 @@ def generate_topic_video_md(topics, videos)
 
         if topics_text.size > 0
 
-          md << "* " + video[:title] + " **(" + topics_text.join("/") + ")**" + "\n"
+          md << "* " + video[:title] + " **(" + topics_text.join(", ") + ")**" + "\n"
 
         else
           md << "* " + video[:title] + "\n"
