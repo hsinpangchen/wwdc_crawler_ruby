@@ -189,6 +189,7 @@ def generate_topic_video_md(topics, videos)
 
   md = ""
   filename = "./example/wwdc_topic_video.md"
+  host = "https://developer.apple.com"
 
   topics.each do |topic|
 
@@ -200,12 +201,14 @@ def generate_topic_video_md(topics, videos)
         video_object = find_video_with_url(videos, video[:url])
         topics_text = video_object[:topics]
 
+        video_url_title = "[" + video[:title] + "](" + host + video[:url] + ")"
+
         if topics_text.size > 0
 
-          md << "* " + video[:title] + " **(" + topics_text.join(", ") + ")**" + "\n"
+          md << "* " + video_url_title + " **(" + topics_text.join(", ") + ")**" + "\n"
 
         else
-          md << "* " + video[:title] + "\n"
+          md << "* " + video_url_title + "\n"
         end
 
 
