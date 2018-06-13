@@ -145,6 +145,16 @@ def find_topics_in_wwdc_by_video_url(wwdc, video_url)
 
 end
 
+def find_video_with_url(videos, url)
+
+  target = nil
+  videos.each do |video|
+    target = video if video[:url] == url
+  end
+  return target
+
+end
+
 
 def generate_md(videos, sorted_by_alphabetical)
 
@@ -166,6 +176,45 @@ def generate_md(videos, sorted_by_alphabetical)
     md << video[:content] + "\n\n"
     md << "[link](" + host + video[:url] + ")" + "\n\n"
     md << "\n"
+  end
+
+  File.open(filename,'wb+') do |file|
+      file << md
+  end
+
+end
+
+
+def generate_topic_video_md(topics, videos)
+
+  md = ""
+  filename = "./example/wwdc_topic_video.md"
+
+  topics.each do |topic|
+
+    md << "# " + topic[:name] + "\n"
+    topic[:children].each do |sub_topic|
+      md << "### " + sub_topic[:name] + "\n"
+      sub_topic[:videos].each do |video|
+
+        video_object = find_video_with_url(videos, video[:url])
+        topics_text = video_object[:topics]
+
+        if topics_text.size > 0
+
+          md << "* " + video[:title] + " **(" + topics_text.join("/") + ")**" + "\n"
+
+        else
+          md << "* " + video[:title] + "\n"
+        end
+
+
+
+      end
+    end
+
+    md << "\n"
+
   end
 
   File.open(filename,'wb+') do |file|
@@ -234,6 +283,7 @@ def fetch_all_videos
   generate_md(videos, false)
   generate_md(videos, true)
 
+  generate_topic_video_md(topics, videos)
 
 
 

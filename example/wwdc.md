@@ -21,7 +21,7 @@ topics :  Special Events
 ## Apple Design Awards
 platform : iOS, macOS, tvOS, watchOS
 
-topics :  Special Events/ Games
+topics :  Special Events/ Visual Design/ Interaction Design/ Games
 
 Join us for an unforgettable award ceremony celebrating developers and their outstanding work. The 2018 Apple Design Awards recognize state of the art iOS, macOS, watchOS, and tvOS apps that reflect excellence in design and innovation.
 
@@ -121,7 +121,7 @@ Gain insights into the latest in Cocoa frameworks for macOS. Hear about Dark Mod
 ## Introducing Dark Mode
 platform : macOS
 
-topics :  UI Frameworks/ Interface Builder
+topics :  Visual Design/ UI Frameworks/ Interface Builder
 
 Hear from the Apple design team about the principles and concepts that anchor Dark Mode. Learn the basics of enhancing your app with this new appearance, and add an experience that people are sure to love.
 
@@ -1031,7 +1031,7 @@ At Apple, we believe in building products with both great features and great pri
 ## Core Image: Performance, Prototyping, and Python
 platform : iOS, macOS
 
-topics :  Metal/ Photos and Imaging
+topics :  Prototyping/ Metal/ Photos and Imaging
 
 Core Image is the essential framework for handling image processing tasks in your photo and video apps. In this session, we'll explore new additions to the framework that allow you to achieve great performance in your filter chains and custom CIKernels. We'll also demo a new approach to...
 
@@ -1058,13 +1058,63 @@ Password AutoFill delivers the ability to fill passwords seamlessly within iOS a
 [link](https://developer.apple.com/videos/play/wwdc2018/721/)
 
 
+## The Qualities of Great Design
+platform : iOS, macOS, tvOS, watchOS
+
+topics :  Visual Design/ Prototyping/ Sound and Haptics/ Interaction Design/ Typography
+
+Great Design isn't magic, it is crafted with care by real people. Explore the characteristics of great design through the voices of designers from Apple and our developer community. Learn how they take inspiration from everyday life, conceive and refine ideas, and push themselves to design apps...
+
+[link](https://developer.apple.com/videos/play/wwdc2018/801/)
+
+
+## Intentional Design
+platform : iOS, macOS, tvOS, watchOS
+
+topics :  Visual Design/ Interaction Design
+
+Great app experiences leap off the screen. They are dynamic, immersive, personal, and, above all else, the result of a strong and clear intent. Learn key techniques for being intentional with your design by choosing appropriate metaphors, making extreme choices, and making every interaction feel...
+
+[link](https://developer.apple.com/videos/play/wwdc2018/802/)
+
+
+## Designing Fluid Interfaces
+platform : iOS, macOS, tvOS, watchOS
+
+topics :  Visual Design/ Prototyping/ Sound and Haptics/ Interaction Design
+
+Discover the techniques used to create the fluid and dynamic interfaces of iOS and other Apple platforms. Learn how to design gestures and animations that feel intuitive and natural and will make your app delightful.
+
+[link](https://developer.apple.com/videos/play/wwdc2018/803/)
+
+
+## The Life of a Button
+platform : iOS, macOS, tvOS, watchOS
+
+topics :  Visual Design/ Sound and Haptics/ Interaction Design
+
+An in-depth exploration of essential interaction, visual and sound design principles and techniques through the design of a simple button.
+
+[link](https://developer.apple.com/videos/play/wwdc2018/804/)
+
+
 ## Creating Great AR Experiences
 platform : iOS
 
-topics :  AR / VR/ 3D Graphics
+topics :  Visual Design/ Interaction Design/ AR / VR/ 3D Graphics
 
 Engaging AR experiences are easy to start and navigate, persuasively realistic, and highly immersive. Learn best practices for successfully bringing people into an AR experience, teaching them about how to interact and engage with virtual content, and making your AR content look beautiful and...
 
 [link](https://developer.apple.com/videos/play/wwdc2018/805/)
+
+
+## Designing Notifications
+platform : iOS, macOS, watchOS
+
+topics :  Visual Design/ Interaction Design
+
+Thoughtfully designed notifications are a powerful way to communicate timely information to people that they will find valuable and useful. Learn how you can design notifications people want to receive by making them beautiful, helpful, actionable, and respectful of their valuable time and...
+
+[link](https://developer.apple.com/videos/play/wwdc2018/806/)
 
 
